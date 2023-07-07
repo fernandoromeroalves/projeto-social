@@ -1,6 +1,5 @@
 # projeto-social
 projeto de redes sociais
-
-    <ul>
+<ul>
         <li><a href="https://fernandoromeroalves.github.io/projeto-social/index.html">clique aqui</a></li>
     </ul>
